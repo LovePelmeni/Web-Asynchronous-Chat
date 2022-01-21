@@ -1,2 +1,2 @@
 # Web-Asynchronous-Chat
-Project Chat implemented with Django Channels technology + Websockets
+Project Chat implemented with Django Channels + Javascript + Websockets
